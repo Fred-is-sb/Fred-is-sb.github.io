@@ -26,3 +26,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[智能仓储2.0](https://fred-is-sb.github.io/zhinengcangchu2/)
